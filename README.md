@@ -1,17 +1,15 @@
-# uniriders
+Uniriders 🚗🎓
 
-A new Flutter project.
+**Uniriders** is a Flutter-based ride-sharing platform designed for university students to share commutes, save money, and build a campus community.
 
-## Getting Started
+ ## 🚀 Live Demo
+Check out the web version here: [https://uniriders-7bed8.web.app](https://uniriders-7bed8.web.app)
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
+* **Multi-Platform:** Built with Flutter for Web, Android, and iOS.
+* **Firebase Integration:** Real-time data handling with Firestore.
+* **Student Focus:** Optimized for campus-to-campus travel.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+* **Framework:** Flutter / Dart
+* **Backend:** Firebase (Auth, Firestore, Hosting)
