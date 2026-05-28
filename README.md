@@ -3,7 +3,7 @@ Uniriders 🚗🎓
 **Uniriders** is a Flutter-based ride-sharing platform designed for university students to share commutes, save money, and build a campus community.
 
  ## 🚀 Live Demo
-Check out the web version here: [https://uniriders-7bed8.web.app](https://uniriders-7bed8.web.app)
+Check out the web version here:https://uniriders-7bed8.web.app
 
 ## ✨ Key Features
 * **Multi-Platform:** Built with Flutter for Web, Android, and iOS.
